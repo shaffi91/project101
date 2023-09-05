@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+p {
+    color: white;
+}
+.top {
+    width: 1500px;
+    height: 150px;
+    background-color: red;
+}
+.button {
+    background-color: blue;
+    color: purple;
+}
